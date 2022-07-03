@@ -1,3 +1,9 @@
+
+# Oric-1 and Oric Atmos for SoCkit
+Ported from https://github.com/MiSTer-devel/Oric_MiSTer according from Somhi sockit template.
+
+Follows original readme file.
+
 # [Oric-1 / Oric Atmos](https://en.wikipedia.org/wiki/Oric) for MiSTer Platform
 
 Original Read.Me for MiST. Not all info is releavant to MiSTer.
